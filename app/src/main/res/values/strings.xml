@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Teclado</string>
+    <string name="ime_name">Mi Teclado Personalizado</string>
+    <string name="instrucciones">Instrucciones:\n\n1. Presiona "Activar Teclado" y habilita Mi Teclado en la lista\n\n2. Presiona "Seleccionar Teclado" y elige Mi Teclado de la lista\n\n3. Prueba escribiendo en el campo de texto de arriba</string>
+</resources>
